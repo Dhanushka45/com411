@@ -1,8 +1,6 @@
 # Display beep
-print("\t\\**  |  **\\")
-print("\t###########")
-print("#       B         #")
-print("#       E         #")
-print("#       E         #")
-print("#       P         #")
-print("#       ##        #")
+eye = input()
+print("##########")
+print(f"#  {eye}  {eye}  #")
+print("#  ----  #")
+print("##########")
